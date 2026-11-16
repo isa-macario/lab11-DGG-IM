@@ -17,7 +17,7 @@ def hypotenuse(a, b):
 def subtract(a, b):
     return a-b
 
-def logarithmic(a, b):
+def logarithm(a, b):
     if a<=0 or b<=0 or b==1:
         raise ValueError
 
